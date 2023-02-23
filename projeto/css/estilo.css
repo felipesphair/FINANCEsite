@@ -1,0 +1,38 @@
+a.coo {
+    text-decoration: none;
+}
+a:hover.pass {
+    border-bottom: 1px solid white;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.caixa2 {
+    padding: 60px 0;
+
+}
+
+.h {
+    height: 100px;
+}
+
+footer p a{
+    margin: 20px 15px;  
+}
+
+footer p a:hover{
+    border-bottom: 1px solid white;
+}
+
+.linha {
+    margin-top: 10px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.right{
+    padding-right: 30px;
+}
+
